@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SamuelAntonio
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me samuel99948@gmail.com
 
 <!---
