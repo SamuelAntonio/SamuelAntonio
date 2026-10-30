@@ -9,7 +9,6 @@
 🚀 Technologies & Tools
 
 Test Automation: Robot Framework, BDD/Cucumber
-
 Programming: JavaScript & TypeScript
 
 API Testing: Postman
