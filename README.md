@@ -4,7 +4,7 @@
 
 🎓 Graduated in Information Systems, with a postgraduate degree in Data Science.
 
-🔍 I have approximately 2 years of experience in Software Quality Assurance, working with manual, functional, exploratory, regression, and automated testing.
+🔍 I have 2 years of experience in Software Quality Assurance, working with manual, functional, exploratory, regression, and automated testing.
 
 🚀 Technologies & Tools
 
